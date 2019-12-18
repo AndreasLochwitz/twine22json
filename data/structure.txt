@@ -1,0 +1,14 @@
+
+{
+    start: 1,
+    screens: {
+        "id": {
+            text: "",
+            links: {
+                "Link1": "ziel1",
+                "Link2": "ziel2"
+            }
+        }
+    }
+
+}
