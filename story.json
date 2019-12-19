@@ -1,0 +1,68 @@
+{
+    "0 Start": {
+        "content": "Lorem ipsum\n\nBla bla\n\n&lt;hr&gt;\n\n",
+        "links": [
+            {
+                "desc": "Weiter",
+                "target": "1 Szene"
+            }
+        ]
+    },
+    "1 Szene": {
+        "content": "bla bla\n\n\n\n",
+        "links": [
+            {
+                "desc": "Weiter",
+                "target": "2 Szene"
+            },
+            {
+                "desc": "Woanders",
+                "target": "3 Szene"
+            }
+        ]
+    },
+    "2 Szene": {
+        "content": "Bla bla blupp\n\n",
+        "links": [
+            {
+                "desc": "Weiter",
+                "target": "3 Szene"
+            }
+        ]
+    },
+    "3 Szene": {
+        "content": "Hurra\n\n&lt;hr&gt;\n\n",
+        "links": [
+            {
+                "desc": "Weiter",
+                "target": "4 Szene"
+            }
+        ]
+    },
+    "4 Szene": {
+        "content": "Alarm Alarm!!!\n\n\n",
+        "links": [
+            {
+                "desc": "Weiter",
+                "target": "5 Szene"
+            },
+            {
+                "desc": "Zurück zu 2",
+                "target": "2 Szene"
+            }
+        ]
+    },
+    "5 Szene": {
+        "content": "Das Ende ist nah...\n\n",
+        "links": [
+            {
+                "desc": "Weiter",
+                "target": "Ende"
+            }
+        ]
+    },
+    "Ende": {
+        "content": "Dies ist das Ende",
+        "links": []
+    }
+}
